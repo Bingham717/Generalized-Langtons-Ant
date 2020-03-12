@@ -4,6 +4,8 @@ Read the PDF below by Ian Stewart for details on how variations of Langton's Ant
 be described using a rule string written in binary. In general it is also a very
 fun read.
 
+The file Langtons_Ant.py
+
 https://www.researchgate.net/publication/250803538_The_Ultimate_in_Anty-Particles
 
 Name:  Nicholas Wood, PhD
